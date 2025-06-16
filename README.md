@@ -1,0 +1,3 @@
+# Elevation-Groundwater Analysis Toolkit (EGAT)
+
+A Python toolkit for analyzing groundwater dynamics...
