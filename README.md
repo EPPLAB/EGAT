@@ -2,19 +2,25 @@
 
 A Python toolkit for analyzing groundwater dynamics in relation to elevation and anthropogenic factors.
 
-## Features
 
-- **Data preprocessing and integration**
-- **Statistical analysis (correlation, regression, ANOVA)**
-- **Feature importance analysis**
-- **Spatial and temporal visualization**
-- **Example input/output for reproducibility**
+## ✨ Features
 
-## Installation
+- 📦 Data preprocessing and integration
+- 📊 Statistical analysis (correlation, regression, ANOVA)
+- 🧠 Feature importance analysis
+- 🌍 Spatial and temporal visualization
+- 🧪 Example input/output for reproducibility
 
+
+## 🚀 Getting Started
+
+### 1. Clone the Repository
+
+```bash
 git clone https://github.com/EPPLAB/EGAT.git
 cd EGAT
 pip install -r requirements.txt
+
 
 
 ## Usage
